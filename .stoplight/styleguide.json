@@ -11,17 +11,17 @@
   ],
   "aliases": {},
   "rules": {
-    "CopyTest": {
-      "id": "KyFQ755kwaSMAFFFTWuaV",
+    "CopyTesting": {
+      "id": "vxm_nA0PI6qQxR9boNdog",
       "given": [
-        "$"
+        ""
       ],
       "severity": "error",
       "then": {
         "function": "defined"
       },
-      "name": "CopyTest",
-      "message": "This is for copying the test."
+      "name": "CopyTesting",
+      "message": "Copy the test"
     }
   },
   "extendedDefault": false
