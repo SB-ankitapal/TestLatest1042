@@ -1,0 +1,28 @@
+{
+  "name": "TestLatest1042",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {
+    "CopyTest": {
+      "id": "KyFQ755kwaSMAFFFTWuaV",
+      "given": [
+        "$"
+      ],
+      "severity": "error",
+      "then": {
+        "function": "defined"
+      },
+      "name": "CopyTest",
+      "message": "This is for copying the test."
+    }
+  },
+  "extendedDefault": false
+}
